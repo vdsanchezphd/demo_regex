@@ -24,7 +24,9 @@ was done in a Windows 10 environment using Visual Studio's:
 - MS C/C++ Optimizing Compiler V 19.00 for x64
 - MS Incremental Linker V 14.00
 
-run from a VS2015 x64 Native Tools Command Prompt (cf. attached screenshot).
+run from a VS2015 x64 Native Tools Command Prompt, cf. enclosed screenshot below:
+
+![alt tag](https://github.com/vdsanchezphd/demo_regex/blob/master/1-Building%20and%20Running.JPG)
 
 The test.dat text file contains test vectors, can be easily modified. The results are shown in the console.
 
